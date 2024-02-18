@@ -1,7 +1,7 @@
 <template>
   <div class="container flex justify-between align-center">
     <div class="img-logo w-1/2  rounded-full">
-      <img class=" w-1/2 h-1/2" src="/assets/imgs/IMG_20240208_143120_888.jpg" alt="" />
+<!--      <img class=" w-1/2 h-1/2" src="/assets/imgs/IMG_20240208_143120_888.jpg" alt="" />-->
     </div>
     <div class="content w-1/2 h-1/2">
       <p class="text-center text-clip break-words">
